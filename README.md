@@ -79,7 +79,7 @@
 
 ফাইলটা ডাউনলোড হওয়ার পর —
 
-- **ফোনে:** File Manager → Downloads → `surprise.html` → Long Press → *"Open with"* → **Google Chrome**
+- **ফোনে:** File Manager → Downloads → `surprise.html` → Click → **Google Chrome**
 - **কম্পিউটারে:** ডাউনলোড হওয়া ফাইলটার উপর ডাবল ক্লিক করো, অথবা Chrome-এ drag করে ছেড়ে দাও
 
 <br/>
