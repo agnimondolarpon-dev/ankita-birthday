@@ -69,16 +69,18 @@
 
 <div align="center">
 
-[![Open This Surprise](https://img.shields.io/badge/🎀_OPEN_THIS_SURPRISE_🎀-ff69b4?style=for-the-badge&labelColor=c084fc&logoColor=white)](https://agnimondolarpon-dev.github.io/ankita-birthday/surprise.html)
+<a href="https://agnimondolarpon-dev.github.io/ankita-birthday/surprise.html">
+  <img src="https://img.shields.io/badge/🎀%20%20OPEN%20THIS%20SURPRISE%20%20🎀-E91E8C?style=for-the-badge&labelColor=c084fc" width="420" alt="Open This Surprise"/>
+</a>
 
-<br/>
+<br/><br/>
 
 > 🔊 Sound on রেখো — পুরো experience-টা অনেক বেশি ভালো লাগবে।
 >
 > 👆 Screen-এ tap বা click করতে থাকো — এক পাতা থেকে আরেক পাতায় যাবে।
 >
 > ⚠️ ফাইল এর শেষের দিকে কিন্তু চিঠি রয়েছে ওগুলো পড়তে ভুলে যেও না , প্রথমবার Birthday Wish এরপরে আরো অনেক চিঠি রয়েছে সেগুলো পড়ো !😁
-> 
+
 </div>
 
 <br/>
